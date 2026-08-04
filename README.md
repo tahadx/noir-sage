@@ -8,7 +8,7 @@ Omarchy.
 ## Install
 
 ```bash
-git clone https://github.com/tahasadough/noir-sage.git
+git clone https://github.com/tahadx/noir-sage.git
 cd noir-sage
 ./install.sh
 ```
@@ -24,7 +24,7 @@ gsettings set org.gnome.desktop.interface icon-theme "noir-sage"
 
 ## Omarchy
 
-Used by the [Noir Omarchy theme](https://github.com/tahasadough/omarchy-noir-theme)
+Used by the [Noir Omarchy theme](https://github.com/tahadx/omarchy-noir-theme)
 via its `icons.theme` file.
 
 ## License
